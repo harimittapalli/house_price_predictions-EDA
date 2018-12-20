@@ -1,7 +1,7 @@
 # house_price_predictions-EDA
 
-This Jupyter notebook explains about the relation ship between the features and 
-handling missing values.
+This Jupyter notebook explains about the relationship between the features and 
+handling and visualising missing values using `missingno` library.
 
 I have used seaborn to visualize the relationhsip between the features.
 
